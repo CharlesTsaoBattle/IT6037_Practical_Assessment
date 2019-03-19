@@ -1,0 +1,5 @@
+{"_id":{"$oid":"5c86ae88eac02914dceb1cb9"},"Title":"Titanic","Year":{"$numberInt":"1997"},"Category":"Drama","Description":"Films that are more serious rather than humourous in tone"}
+{"_id":{"$oid":"5c86ae88eac02914dceb1cba"},"Title":"The Adventures of Milo and Otis","Year":{"$numberInt":"1989"},"Category":"Family","Description":"Films that relate to children in the context of home and family"}
+{"_id":{"$oid":"5c86ae88eac02914dceb1cbb"},"Title":"The Dark Knight","Year":{"$numberInt":"2008"},"Category":"Superhero","Description":"Films that seeks to elicit fear for the audience"}
+{"_id":{"$oid":"5c86ae88eac02914dceb1cbc"},"Title":"Jumanji: Welcome to the Jungle","Year":{"$numberInt":"2017"},"Category":"Adventure","Description":"Films that display and explore exotic locations in an energetic way"}
+{"_id":{"$oid":"5c86ae88eac02914dceb1cbd"},"Title":"The Sixth Sense","Year":{"$numberInt":"1999"},"Category":"Thriller","Description":"Films that involves excitement and suspense for the audience"}
